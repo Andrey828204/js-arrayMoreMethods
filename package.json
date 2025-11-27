@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrey828204/js-arrayMoreMethods.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Andrey828204/js-arrayMoreMethods/issues"
+  },
+  "homepage": "https://github.com/Andrey828204/js-arrayMoreMethods#readme"
 }
